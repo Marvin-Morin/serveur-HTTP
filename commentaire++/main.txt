@@ -1,0 +1,1 @@
+*1 = Le code 200 qui est envoyé par le serveur au navigateur pour confirmer que la requète HTTP à été réussis et que la page peut lui être transmise 
